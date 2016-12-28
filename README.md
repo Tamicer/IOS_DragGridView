@@ -1,5 +1,7 @@
-# IOS_DragGridView
-1. 类似Ios的luncher效果GridView长按支持拖动排序，并支持Item实时交换。
+# IOS-DragGridView
+
+
+1. 类似iOS的launcher效果GridView长按支持拖动排序，并支持Item实时交换。
  2. GridView长按Item出现有抖动效果。
  3. Item条目有抖动效果下不需要长按点击就可以进行拖动item。
  4. 拖动的Item和被拖动的Item坐标完全重合后可新建文件夹
